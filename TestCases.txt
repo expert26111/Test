@@ -1,0 +1,11 @@
+
+
+x | y | z | Outcome Expected
+
+5 | 5 | 5 | Equilateral triangle
+4 | 5 | 6 | Scalene triangle 
+4 | 5 | 5 | Isosceles triangle
+5 | 4 | 5 | Isosceles triangle
+5 | 5 | 5 | Isosceles triangle
+bla       | That's not a number!
+0         | Please enter a positive number! 
